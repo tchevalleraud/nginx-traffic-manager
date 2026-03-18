@@ -119,7 +119,7 @@ docker compose up -d
 
 ## Documentation
 
-Full documentation is available in the [docs/](docs/) directory, in both English and French.
+Full documentation is available at [tchevalleraud.github.io/nginx-traffic-manager](https://tchevalleraud.github.io/nginx-traffic-manager/), in both English and French.
 
 ## Contributing
 
